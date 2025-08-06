@@ -44,6 +44,6 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
-# Native platform directories
-/android/
-/ios/
+android/.gradle/
+android/local.properties
+
