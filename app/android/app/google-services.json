@@ -1,21 +1,28 @@
 {
   "project_info": {
-    "project_number": "PLACEHOLDER",
-    "project_id": "PLACEHOLDER"
+    "project_number": "146175625647",
+    "project_id": "gtm-webview",
+    "storage_bucket": "gtm-webview.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "PLACEHOLDER",
+        "mobilesdk_app_id": "1:146175625647:android:f82eb311c6d197b47e875a",
         "android_client_info": {
-          "package_name": "com.example.app"
+          "package_name": "com.gtm.webview"
         }
       },
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "PLACEHOLDER"
+          "current_key": "AIzaSyAJAHH5iHBRtoimeWBbVM8lsqVdRySxruA"
         }
-      ]
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
     }
   ],
   "configuration_version": "1"
